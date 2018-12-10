@@ -1,0 +1,56 @@
+html {
+    font-size: 62,5%;
+    font-size: calc(1em *0.625);
+}
+
+body{
+    border: solid 1px red;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Sorts Mill Goudy', sans-serif;
+}
+
+.container {
+    display: flex;
+    border: solid 1px black;
+    width: 40rem;
+    height: 18rem;
+    margin: 10rem auto;
+    background-color: azure;
+}
+
+h1 {
+    font-family: 'Philosopher', sans-serif;
+    font-style: normal;
+    color: black;
+    line-height: 5rem;
+    margin: 0;
+    font-size: 2.9rem;
+}
+
+h2 {
+    Color: black;
+    margin: 0;
+    font-size: 2.9rem;
+}
+
+p {
+    
+}
+.fioriture {
+    position: absolute;
+    opacity: 0.3;
+    width: 39.7rem;
+    height: 17.6rem;
+    margin: 1.7px;
+}
+
+.text {
+    color: brown;
+    margin-top: 0 auto;
+    width: 100%;
+    text-align: center;
+    line-height: 1.5rem;
+    font-size: 2rem;
+}
