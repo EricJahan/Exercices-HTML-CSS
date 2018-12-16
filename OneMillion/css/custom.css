@@ -1,0 +1,173 @@
+/* Vos customisations des classes de Bootstrap */
+
+
+
+
+
+
+
+
+
+/*-----------------------------------------------------*/
+.container homepage {
+    width: 1170px;
+}
+
+/*-----------------------------------------------------*/
+.jumbotron {
+    background-image: url(../images/hero-image.jpg);
+    text-align: center;
+    color: white;
+}
+
+.jumbotron h1 {
+    font-family: 'arvo';
+    margin-top: 30px;
+	margin-bottom: 50px;
+    line-height: 65px;
+}
+
+.jumbotron p {
+ 
+}
+
+/*-----------------------------------------------------*/
+
+p {
+    margin: 0 0 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    
+}
+
+h2, h3{
+    font-size: 26px;
+    font-family: 'arvo';
+    color: red;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+.hr {
+    border-top: 1px solid #e74c3d;
+	width: 160px;
+	margin-top: 15px;
+}
+/*-----------------------------------------------------*/
+.btn-group-lg>.btn, .btn-lg {
+    padding: 10px 16px;
+    font-size: 35px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+}
+/*-----------------------------------------------------*/
+a {
+    color: red;
+    font-weight: bold; 
+}
+
+.homepage a{
+    color: red;
+}
+
+#pouic {
+    font-size: 12px;
+}
+/*-----------------------------------------------------*/
+.nav-item {
+    text-indent: -180px;
+    margin: 12px;
+    margin-right: 200px;
+    background-color: none;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+
+.lol1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.lol2 {
+    align-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+navbar-brand {
+    display: block;
+    vertical-align: middle;
+    border: 0;
+}
+
+/*-----------------------------------------------------*/
+
+.fa-stack {
+    position: relative;
+    display: inline-block;
+    width: 140px;
+    height: 110px;
+    line-height: 10px;
+    vertical-align: middle;
+}
+.fa-stack-2x{
+    font-size: 120px;
+    line-height: 109px;
+}
+
+.fa-stack-1x {
+    font-size: 58px;
+    line-height: 109px;
+}
+
+.fa-4x {
+    margin-left: 105px;
+}
+/*-----------------------------------------------------*/
+
+.who {
+    text-align: center;
+    font-weight: bold;
+}
+.yolo {
+    text-align: center;
+}
+
+.get-involved {
+    background-color: #f5f5f5;
+}
+
+.row {
+    margin-bottom: 30px;
+}
+
+/*-----------------------------------------------------*/
+
+footer {
+    background-color: #f74c3c;
+    padding-top: 150px;
+    padding-bottom: 30px;
+}
+.imgaze {
+    padding-left: 400px;
+}
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
